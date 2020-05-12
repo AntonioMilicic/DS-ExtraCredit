@@ -15,9 +15,6 @@ Students with an even number are printed on screen and ones with an odd numbers 
 1. Working with binary: User enters data, data is related to students which have grades in certain courses, passed / not passed courses, average grades of the course.
 Only for those who have all passed or exceptionally if their number of ects is higher than the minimum and the student repeats a year and did't lose the their right to study by failing these subjects, have calculated avg grade.
 Of course the name and surname of the student, and the year of study are entered as basic data, which are needed to control the students right to study.
-
-Sort the student by checking the average, and printing the students with the average grade, and then deleting all the students until that same student becomes the one with the highest average, and finally the tree in the file preorder is printed to the printing system.
-
 Only stundents which have avg grade achieved are inserted in binary tree, sorted by their avg grade.
 Then student with the new avg grade is printed, after which all students are deleted, till that student, which had avg grade, remains as the one with highest avg grade.
 Print remaining students in file with preorder print method.
